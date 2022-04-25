@@ -36,11 +36,21 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 
 ![](images/part3/part3-install-extension.png)
 
+* Se instala Azure Functions en Visual Studio Code
+
+![](images/part3/InstalarAzureFunctions.png)
+
 3. Despliegue la Function de Fibonacci a Azure usando Visual Studio Code. La primera vez que lo haga se le va a pedir autenticarse, siga las instrucciones.
 
 ![](images/part3/part3-deploy-function-1.png)
 
 ![](images/part3/part3-deploy-function-2.png)
+
+* Se realiza el despliegue
+
+![](images/part3/Despliegue1.png)
+
+![](images/part3/Despliegue2.png)
 
 4. Dirijase al portal de Azure y pruebe la function.
 
