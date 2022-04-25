@@ -52,6 +52,8 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 
 ![](images/part3/Despliegue2.png)
 
+![](images/part3/Despliegue3.png)
+
 4. Dirijase al portal de Azure y pruebe la function.
 
 ![](images/part3/part3-test-function.png)
