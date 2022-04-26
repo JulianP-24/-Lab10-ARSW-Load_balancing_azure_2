@@ -102,7 +102,7 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
   
   ![](images/part3/prueba10000.png)
   
-  * La segunda prueba se hizo con el numero 1000000, obteniendo los siguientes resultados
+  * La tercera prueba se hizo con el numero 1000000, obteniendo los siguientes resultados
   
   ![](images/part3/prueba1000000.png)
   
