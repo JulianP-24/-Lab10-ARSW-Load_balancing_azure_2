@@ -106,11 +106,13 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
   
   ![](images/part3/prueba1000000.png)
   
+  ![](images/part3/fallo1000000png)
+  
   Despues se espero un tiempo de 5 minutos y se volvieron a realizar las mismas pruebas con los mismos numeros obteniendo los siguientes resultados
   
   * Con 1000
   
-  [](images/part3/2prueba1000.png)
+  ![](images/part3/2prueba1000.png)
   
   * Con 10000
   
@@ -119,6 +121,13 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
   * Con 1000000
   
   ![](images/part3/2prueba1000000.png)
+  
+  ![](images/part3/fallo1000000png)
+  
+  * Conclusión
+  Para concluir se puede observar que implementando la memorizacion para resolver fibonacci,se nota una gran reduccion de tiempo, ademas tambien se puede observar que despues de 
+  la espera de 5 minutos el tiempo total y promedio de las ejecuciones bajaron aun mas. Tambien se puede observar que cuando se probo con un numero muy grande como lo es con
+  el numero 1000000, todas las peticiones fallaron debido a los limites de la recursión.
 
 **Preguntas**
 
