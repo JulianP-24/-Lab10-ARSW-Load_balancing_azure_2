@@ -198,8 +198,8 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 	
   * Plan Premium
    
-   La facturación del plan Prémium se basa en el número de núcleos por segundo y en la memoria asignada en todas las instancias. No hay ningún cargo por la ejecución con el plan Prémium. Debe haber al menos una instancia asignada en todo momento en cada plan.
-   Cuando cree o escale un plan, podrá elegir entre tres tamaños de instancia. Se le facturará la cantidad total de memoria y núcleos aprovisionados, por los segundos que tenga asignada cada instancia. La aplicación puede escalarse horizontalmente de forma automática a varias instancias cuando sea necesario.
+    La facturación del plan Prémium se basa en el número de núcleos por segundo y en la memoria asignada en todas las instancias. No hay ningún cargo por la ejecución con el plan Prémium. Debe haber al menos una instancia asignada en todo momento en cada plan.
+    Cuando cree o escale un plan, podrá elegir entre tres tamaños de instancia. Se le facturará la cantidad total de memoria y núcleos aprovisionados, por los segundos que tenga asignada cada instancia. La aplicación puede escalarse horizontalmente de forma automática a varias instancias cuando sea necesario.
    
-   ![](images/part3/planPremium.png)
+    ![](images/part3/planPremium.png)
    
